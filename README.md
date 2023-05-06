@@ -1,2 +1,2 @@
 # CodeClause_project_name
-gold price prediction
+gold price prediction and house price prediction
