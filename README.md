@@ -1,2 +1,2 @@
 # CodeClause
-gold price prediction and house price prediction
+gold price prediction
